@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "rene-2-assets": {
+        "repo": "https://github.com/linked-cm-testing/test1-assets-rene-2.git"
+      }
+    }
   },
   "author": {
     "name": "",
